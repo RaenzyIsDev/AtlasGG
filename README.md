@@ -21,7 +21,7 @@ can you open an issue to tell me what to add: yes, subject to rejection, approva
 
 The release is in releases. (Duh.)
 
-Downloads of presets will be on MediaFir)
+Downloads of presets will be on MediaFire
 
 FURTHER is the ABOUT section, and not essential.
 
